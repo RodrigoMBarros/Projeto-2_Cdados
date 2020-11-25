@@ -10,3 +10,7 @@
 ***tree.dot*** -> Arquivo em formato DOT (graph description language) da árvore de decisão gerada no código do arquivo "Projeto 2 - grupo 8.ipynb".
 
 ***tree.png*** -> Arquivo .png é a imagem em formato PNG da árvore de decisão gerada no código do arquivo "Projeto 2 - grupo 8.ipynb".
+
+### Contribuição GitHub
+
+***Luana*** - Teve dificuldade de dar commits do projeto pois apenas no jupyter dela estava dando um erro desconhecido e a Barbara também ficou com dúvida de como resolver, conseguimos resolver depois, por isso ela não teve muitos commits, porém contribuiu com o projeto.
